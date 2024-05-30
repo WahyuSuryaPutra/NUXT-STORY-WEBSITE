@@ -29,6 +29,9 @@ const changeInputType = () => {
     inputType.value = 'password'
   }
 }
+
+// AUTH\\
+
 const auth = authStore()
 </script>
 <template>
